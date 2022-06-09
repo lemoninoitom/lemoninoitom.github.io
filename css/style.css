@@ -34,6 +34,11 @@ nav {
   text-decoration: none;
 }
 
+.menu_link:hover {
+  text-decoration: underline;
+  color: #ffffff;
+}
+
 .menu_item {
   border-right: 2px dotted black;
   padding-right: 47px;
